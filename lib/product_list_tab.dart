@@ -13,7 +13,7 @@ class ProductListTab extends StatelessWidget {
         return const CustomScrollView(
           slivers: <Widget>[
             CupertinoSliverNavigationBar(
-              largeTitle: Text('Cupertino Store'),
+              largeTitle: Text('Originals Store'),
             ),
           ],
         );
